@@ -36,4 +36,9 @@ Connect with me
 Let's talk about code, comics, or anime!
 
 >_"Code like it's magic, debug like it's art."_ i+
-
+git clone https://github.com/ashisharma9735-sketch/ashisharma9735-sketch.git
+cd ashisharma9735-sketch
+# Add your README.md
+git add README.md
+git commit -m "Add profile README"
+git push origin main
